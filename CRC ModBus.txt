@@ -1,0 +1,39 @@
+/*
+CRC
+
+ INPUTS:
+ 	buf   ->  Array containing message to be sent to controller.
+ 	start ->  Start of loop in crc counter, usually 0.
+ 	cnt   ->  Amount of bytes in message being sent to controller/
+ OUTPUTS:
+ 	temp  ->  Returns crc byte for message.
+ COMMENTS:
+ 	This routine calculates the crc high and low byte of a message.
+ 	Note that this crc is only used for Modbus, not Modbus+ etc.
+ ****************************************************************************/
+
+unsigned int ModbusSlave::crc(unsigned char *buf, unsigned char start,
+                              unsigned char cnt) {
+    unsigned char i, j;
+    unsigned temp, temp2, flag;
+
+    temp = 0xFFFF;
+
+    for (i = start; i < cnt; i++) {
+        temp = temp ^ buf[i];
+
+        for (j = 1; j <= 8; j++) {
+            flag = temp & 0x0001;
+            temp = temp >> 1;
+            if (flag)
+                temp = temp ^ 0xA001;
+        }
+    }
+
+    /* Reverse byte order. */
+    temp2 = temp >> 8;
+    temp = (temp << 8) | temp2;
+    temp &= 0xFFFF;
+
+    return (temp);
+}

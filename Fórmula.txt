@@ -1,0 +1,1 @@
+y = ((x - xmin) * ((ymax - ymin)/(xmax-xmin))) + ymin
