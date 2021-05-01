@@ -1,0 +1,26 @@
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Modbus.csproj.GenerateResource.Cache
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Altair\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\obj\Debug\Modbus.csproj.GenerateResource.Cache
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
+C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores2\VStudio_Modbus\WindowsFormsApplication1\obj\Debug\Modbus.csprojResolveAssemblyReference.cache
