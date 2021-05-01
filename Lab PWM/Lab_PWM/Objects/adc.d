@@ -1,0 +1,9 @@
+.\objects\adc.o: ADC.c
+.\objects\adc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\adc.o: ADC.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\tm4c1294ncpdt.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h
+.\objects\adc.o: C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\system_TM4C129.h
