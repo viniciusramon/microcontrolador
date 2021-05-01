@@ -1,0 +1,33 @@
+Dependencies for Project 'lab5', Target 'Inputs': (DO NOT MODIFY !)
+F (.\lab5.c)(0x55932E2A)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores 2\Projetos\Lab2_ADC_PLL\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129-D__UVISION_VERSION="513" -D_RTE_ -DTM4C1294NCPDT-o .\objects\lab5.o --omf_browse .\objects\lab5.crf --depend .\objects\lab5.d)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\TM4C129.h)(0x530F3946)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530F3946)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FCCC8A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54767FA0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF8D5A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF8D5A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FCCC8A)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\system_TM4C129.h)(0x51C0453A)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x54767FA0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54767FA0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54767FA0)
+I (ADC.h)(0x55932839)
+F (.\ADC.c)(0x55932D52)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores 2\Projetos\Lab2_ADC_PLL\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129-D__UVISION_VERSION="513" -D_RTE_ -DTM4C1294NCPDT-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54767FA0)
+I (ADC.h)(0x55932839)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\tm4c1294ncpdt.h)(0x530F3946)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FCCC8A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF8D5A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF8D5A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FCCC8A)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\system_TM4C129.h)(0x51C0453A)
+F (RTE\Device\TM4C1294NCPDT\startup_TM4C129.s)(0x51C0453A)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores 2\Projetos\Lab2_ADC_PLL\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129--pd "__UVISION_VERSION SETA 513" --pd "_RTE_ SETA 1" --pd "TM4C1294NCPDT SETA 1"--list .\listings\startup_tm4c129.lst --xref -o .\objects\startup_tm4c129.o --depend .\objects\startup_tm4c129.d)
+F (RTE\Device\TM4C1294NCPDT\system_tm4c129.c)(0x5253F274)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I "C:\Users\Altair\Desktop\Einstein\Aulas\2015\Microcontroladores 2\Projetos\Lab2_ADC_PLL\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129-D__UVISION_VERSION="513" -D_RTE_ -DTM4C1294NCPDT-o .\objects\system_tm4c129.o --omf_browse .\objects\system_tm4c129.crf --depend .\objects\system_tm4c129.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54767FA0)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\TM4C129.h)(0x530F3946)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\TM4C1294NCPDT.h)(0x530F3946)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm4.h)(0x53FCCC8A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h)(0x53FF8D5A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h)(0x53FF8D5A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmSimd.h)(0x53FCCC8A)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.0.0\Device\Include\TM4C129\system_TM4C129.h)(0x51C0453A)
