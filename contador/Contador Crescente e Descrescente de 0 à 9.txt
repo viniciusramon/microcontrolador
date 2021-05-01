@@ -1,0 +1,46 @@
+////Includes////
+
+////Definições////
+
+////Declaração de Variaveis Globais////
+
+int main()
+{
+		////Declaração de Variavel Locais////
+	
+		int cnt; //contador
+		int direcao; // 0 - incrementa : 1 - decrementa
+	
+		////Inicialização////
+	
+		cnt = 0;
+		direcao=0;
+	
+	
+		////Parte Ciclica////
+	
+		while(1)
+		{
+			//incrementa
+			if((cnt<9) && (direcao==0))
+			{
+				cnt++;
+			}
+		
+			//decrementa
+			if((cnt>0) && (direcao==1))
+			{
+				cnt--;
+			}
+		
+			if(cnt==9)
+			{
+				direcao=1;
+			}
+		
+			if(cnt==0)
+			{
+				direcao=0;
+			}		
+		}
+}
